@@ -1,8 +1,8 @@
 ## Vendor_Performance_Analysis
-###🔸 Problem Statement
+🔸 Problem Statement
 -  The objective of this project was to evaluate vendor performance by analyzing sales, purchasing, and inventory data to identify profitability drivers, operational inefficiencies, and vendor dependency risks. And finally deliver a clear vendor segmentation framework, actionable recommendations, and ready-to-use datasets for Excel and Power BI reporting.
 
-###🔸 Approach
+🔸 Approach
 -  The analysis was conducted in multiple phases:
 -  Data cleaning and validation across six operational datasets
 -  Creation of vendor-level performance metrics
